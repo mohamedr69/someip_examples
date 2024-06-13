@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mohamed/Desktop/someIP/someip_examples/method_call/build",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_LOG_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -isystem /home/mohamed/Desktop/someIP/vsomeip/interface -isystem /home/mohamed/Desktop/someIP/vsomeip/build  -g -std=c++0x -g   -o CMakeFiles/client-example.dir/src/client.cpp.o -c /home/mohamed/Desktop/someIP/someip_examples/method_call/src/client.cpp",
+  "file": "/home/mohamed/Desktop/someIP/someip_examples/method_call/src/client.cpp"
+},
+{
+  "directory": "/home/mohamed/Desktop/someIP/someip_examples/method_call/build",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_LOG_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -isystem /home/mohamed/Desktop/someIP/vsomeip/interface -isystem /home/mohamed/Desktop/someIP/vsomeip/build  -g -std=c++0x -g   -o CMakeFiles/service-example.dir/src/service.cpp.o -c /home/mohamed/Desktop/someIP/someip_examples/method_call/src/service.cpp",
+  "file": "/home/mohamed/Desktop/someIP/someip_examples/method_call/src/service.cpp"
+}
+]
